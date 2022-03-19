@@ -1,0 +1,2 @@
+unitImage = "matlab:2019" #计算单元模版名称
+command = ["matlab" , "-nodesktop", "-nosplash","-r","cd TestCode;Main;quit"] #启动命令
